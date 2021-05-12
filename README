@@ -1,0 +1,13 @@
+The operating system is Ubuntu 18.04
+To compile the code:
+    under the directory /b06502164_pa2
+    1. make clean
+
+    2. make
+
+To run the code:
+    under the directory /b06502164_pa2
+    ./bin/mps <input_file_name> <output_file_name>
+    For example:
+    ./bin/mps inputs/12.in outputs/12.out
+
